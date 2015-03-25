@@ -1,5 +1,5 @@
 # security-101
-learning about computer security and testing 
+Teaching about computer security and testing 
 
 # Other Peoples work repos, blogs
 * https://github.com/ClickSecurity/data_hacking
